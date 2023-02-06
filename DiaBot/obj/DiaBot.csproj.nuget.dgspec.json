@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj": {}
+    "E:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj": {}
   },
   "projects": {
-    "D:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj": {
+    "E:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj",
+        "projectUniqueName": "E:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj",
         "projectName": "DiaBot",
-        "projectPath": "D:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj",
+        "projectPath": "E:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj",
         "packagesPath": "C:\\Users\\nurlan.eyvazov\\.nuget\\packages\\",
-        "outputPath": "D:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\obj\\",
+        "outputPath": "E:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\nurlan.eyvazov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

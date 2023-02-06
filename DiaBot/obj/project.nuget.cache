@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCxMqXq1rOBit2ZImpcaTkQCPFms3aKf7tOY9Lx510xdgE3Ym+zCRBW3kaAUtMjT3J6xR0e1SFII7/7YqR+g0Q==",
+  "dgSpecHash": "v4qALgG9zh1Nt/WrFAomv/ykow2APNsyAVFtT8FCjg3Qx4cL2GQ9Hg+jK2JJzdvnzZs4q4V34GDd9rgxGavLSA==",
   "success": true,
-  "projectFilePath": "D:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj",
+  "projectFilePath": "E:\\coding\\c#\\TelegramBot\\DiaBot\\DiaBot\\DiaBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurlan.eyvazov\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\nurlan.eyvazov\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
